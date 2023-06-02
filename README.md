@@ -1,5 +1,4 @@
 # Expression Tree Notation Converter
-# Expression Tree Notation Converter
 This C program is designed to perform the conversion of expressions between prefix, infix, and postfix notations using an expression tree. With this program, you can easily convert an expression from one notation to another.
 
 # Features
